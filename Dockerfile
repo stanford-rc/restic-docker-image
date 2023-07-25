@@ -22,8 +22,13 @@ RUN curl -fL -o /tmp/restic.tar.gz \
          https://github.com/restic/restic/releases/download/v${restic_ver}/restic-${restic_ver}.tar.gz \
  && tar -xzf /tmp/restic.tar.gz -C /tmp
 
+# Backup performance patch.
+RUN curl -fL -o /tmp/archiver.patch \
+         https://gist.githubusercontent.com/thiell/66de573550d161f1d7bae264ba4fdeb7/raw/e624e1451d4be637760b3f61d2245fc8ce68d558/archiver.go
+
 # Build restic.
 RUN cd /tmp/restic-* \
+ && patch -p1 < /tmp/archiver.patch \
  && go run build.go \
  && cp restic /out/usr/local/bin/ \
  && cp LICENSE /out/usr/share/licenses/restic/
