@@ -35,7 +35,6 @@ RUN cd /tmp/restic-* \
 
 
 
-
 #
 # Stage `runtime` creates final Docker image to use in runtime.
 #
