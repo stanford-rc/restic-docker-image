@@ -6,6 +6,180 @@ All user visible changes to this project will be documented in this file. This p
 
 
 
+## [0.17.0-r0] · 2024-07-26
+[0.17.0-r0]: /../../tree/0.17.0-r0
+
+[Diff](/../../compare/0.16.5-r0...0.17.0-r0)
+
+### Upgraded
+
+- [restic] 0.17.0: <https://github.com/restic/restic/releases/tag/v0.17.0>
+
+### Security updated
+
+- [Alpine Linux] 3.20.2: <https://github.com/docker-library/official-images/commit/1a994d381a873e6f9579843dd1eebf64bc50e831>
+
+
+
+
+## [0.16.5-r0] · 2024-07-03
+[0.16.5-r0]: /../../tree/0.16.5-r0
+
+[Diff](/../../compare/0.16.4-r2...0.16.5-r0)
+
+### Upgraded
+
+- [restic] 0.16.5: <https://github.com/restic/restic/releases/tag/v0.16.5>
+
+
+
+
+## [0.16.4-r2] · 2024-06-21
+[0.16.4-r2]: /../../tree/0.16.4-r2
+
+[Diff](/../../compare/0.16.4-r1...0.16.4-r2)
+
+### Security updated
+
+- [Alpine Linux] 3.20.1: <https://github.com/docker-library/official-images/commit/9434c6383adc38dd26c6c1b098bed1981a6d9e7f>
+
+
+
+
+## [0.16.4-r1] · 2024-05-24
+[0.16.4-r1]: /../../tree/0.16.4-r1
+
+[Diff](/../../compare/0.16.4-r0...0.16.4-r1)
+
+### Upgraded
+
+- [Alpine Linux] 3.20: <https://www.alpinelinux.org/posts/Alpine-3.20.0-released.html>
+- [Go] 1.22: <https://go.dev/doc/go1.22>
+
+
+
+
+## [0.16.4-r0] · 2024-02-05
+[0.16.4-r0]: /../../tree/0.16.4-r0
+
+[Diff](/../../compare/0.16.3-r1...0.16.4-r0)
+
+### Upgraded
+
+- [restic] 0.16.4: <https://github.com/restic/restic/releases/tag/v0.16.4>
+
+
+
+
+## [0.16.3-r1] · 2024-01-29
+[0.16.3-r1]: /../../tree/0.16.3-r1
+
+[Diff](/../../compare/0.16.3-r0...0.16.3-r1)
+
+### Security updated
+
+- [Alpine Linux] 3.19.1: <https://github.com/docker-library/official-images/commit/a5a02e00e489cfaa9dc8056755cd00abe7d0f646>
+
+
+
+
+## [0.16.3-r0] · 2024-01-15
+[0.16.3-r0]: /../../tree/0.16.3-r0
+
+[Diff](/../../compare/0.16.2-r2...0.16.3-r0)
+
+### Upgraded
+
+- [restic] 0.16.3: <https://github.com/restic/restic/releases/tag/v0.16.3>
+
+
+
+
+## [0.16.2-r2] · 2023-12-11
+[0.16.2-r2]: /../../tree/0.16.2-r2
+
+[Diff](/../../compare/0.16.2-r1...0.16.2-r2)
+
+### Upgraded
+
+- [Alpine Linux] 3.19: <https://www.alpinelinux.org/posts/Alpine-3.19.0-released.html>
+
+
+
+
+## [0.16.2-r1] · 2023-12-01
+[0.16.2-r1]: /../../tree/0.16.2-r1
+
+[Diff](/../../compare/0.16.2-r0...0.16.2-r1)
+
+### Security updated
+
+- [Alpine Linux] 3.18.5: <https://github.com/docker-library/official-images/commit/7e13453ce3b47c537e4ffe79127d4900825e9d03>
+
+
+
+
+## [0.16.2-r0] · 2023-10-30
+[0.16.2-r0]: /../../tree/0.16.2-r0
+
+[Diff](/../../compare/0.16.1-r0...0.16.2-r0)
+
+### Upgraded
+
+- [restic] 0.16.2: <https://github.com/restic/restic/releases/tag/v0.16.2>
+
+
+
+
+## [0.16.1-r0] · 2023-10-25
+[0.16.1-r0]: /../../tree/0.16.1-r0
+
+[Diff](/../../compare/0.16.0-r2...0.16.1-r0)
+
+### Upgraded
+
+- [restic] 0.16.1: <https://github.com/restic/restic/releases/tag/v0.16.1>
+- [Go] 1.21: <https://go.dev/doc/go1.21>
+
+
+
+
+## [0.16.0-r2] · 2023-10-04
+[0.16.0-r2]: /../../tree/0.16.0-r2
+
+[Diff](/../../compare/0.16.0-r1...0.16.0-r2)
+
+### Security updated
+
+- [Alpine Linux] 3.18.4: <https://github.com/docker-library/official-images/commit/2f22914dcf488bd066771452d2c694ad4f7e88c4>
+
+
+
+
+## [0.16.0-r1] · 2023-08-09
+[0.16.0-r1]: /../../tree/0.16.0-r1
+
+[Diff](/../../compare/0.16.0-r0...0.16.0-r1)
+
+### Security updated
+
+- [Alpine Linux] 3.18.3: <https://github.com/docker-library/official-images/commit/3cd1b36bebfa5684e9c1ab89d5673b32453a05d9>
+
+
+
+
+## [0.16.0-r0] · 2023-08-02
+[0.16.0-r0]: /../../tree/0.16.0-r0
+
+[Diff](/../../compare/0.15.2-r2...0.16.0-r0)
+
+### Upgraded
+
+- [restic] 0.16.0: <https://github.com/restic/restic/releases/tag/v0.16.0>
+
+
+
+
 ## [0.15.2-r2] · 2023-06-15
 [0.15.2-r2]: /../../tree/0.15.2-r2
 
